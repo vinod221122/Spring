@@ -14,5 +14,6 @@ public class RestControllerDemo {
 private void hello() {
 	// TODO Auto-generated method stub
 System.out.println("hello");
+System.out.println("hello2");
 }
 }
